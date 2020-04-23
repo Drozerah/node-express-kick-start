@@ -2,7 +2,6 @@
 require('dotenv').config()
 const express = require('express')
 const app = express()
-const { middleware, visualizer } = require('express-routes-visualizer')
 
 // * APP Configuration
 // Init view engine
@@ -15,12 +14,8 @@ require('./config/static-files/public')(app)
 // * APP Routes
 // home
 app.use('/', require('./routes/home'))
-
-// Init routes visualizer
-app.use('/routes', middleware({
-  httpMethods: true,
-  routerDir: 'routes' // routes directory
-}), visualizer({ theme: 'plain' }))
+// routes visualizer
+app.use('/routes', require('./routes/routes'))
 
 // * Routes errors handler
 // 404
