@@ -53,8 +53,8 @@ List of Packages
 
 __Author:__
 
-* **Thomas G. aka Drozerah** - [Github](https://github.com/Drozerah)
+- **Thomas G. aka Drozerah** [Github](https://github.com/Drozerah)
 
 __License:__
 
-* ISC
+- [ISC](licence)
