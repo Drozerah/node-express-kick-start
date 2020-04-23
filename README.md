@@ -30,7 +30,10 @@ Getting Started
 λ npm start
 
 # Start Eslint
-λ npm run 
+λ npm run
+
+# Rapid install
+λ git clone https://github.com/Drozerah/node-express-kick-start.git my-project-name && cd my-project-name && npm install && code . && exit
 ```
 
 List of Packages
