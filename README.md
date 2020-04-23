@@ -39,19 +39,20 @@ Getting Started
 List of Packages
 ----------------
 
-| Package                                                                        | Description                                                             |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------|
-| [consolidate](https://www.npmjs.com/package/consolidate)                       | Template engine consolidation library.                                  |
-| [cross-env](https://www.npmjs.com/package/cross-env)                           | Run scripts that set and use environment variables across platforms     |
-| [dotenv](https://www.npmjs.com/package/dotenv)                                 | Loads environment variables from .env file.                             |
-| [eslint](https://eslint.org/)                                                  | Linter JavaScript.                                                      |
-| [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard) | An ESLint Shareable Config for JavaScript Standard Style.               |
-| [eslint-plugin-import](https://eslint.org/)                                    | Support linting of ES2015+ (ES6+) import/export syntax.                 |
-| [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)         | Additional ESLint's rules for Node.js                                   |
-| [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)   | Enforce best practices for JavaScript promises.                         |
-| [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard) | ESlint Rules for the Standard Linter.                                   |
-| [express](https://expressjs.com/)                                              | Node.js web framework.                                                  |
-| [nodemon](https://www.npmjs.com/package/nodemon)                               | Auto restarting the application when file changes                       |
+| Package                                                                            | Description                                                              |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [consolidate](https://www.npmjs.com/package/consolidate)                           | Template engine consolidation library.                                   |
+| [cross-env](https://www.npmjs.com/package/cross-env)                               | Run scripts that set and use environment variables across platforms      |
+| [dotenv](https://www.npmjs.com/package/dotenv)                                     | Loads environment variables from .env file.                              |
+| [eslint](https://eslint.org/)                                                      | Linter JavaScript.                                                       |
+| [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)     | An ESLint Shareable Config for JavaScript Standard Style.                |
+| [eslint-plugin-import](https://eslint.org/)                                        | Support linting of ES2015+ (ES6+) import/export syntax.                  |
+| [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)             | Additional ESLint's rules for Node.js                                    |
+| [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)       | Enforce best practices for JavaScript promises.                          |
+| [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)     | ESlint Rules for the Standard Linter.                                    |
+| [express](https://expressjs.com/)                                                  | Node.js web framework.                                                   |
+| [express-routes-visualizer](https://github.com/Drozerah/express-routes-visualizer) | Middleware and endpoint for viewing your app's route hierarchy.          |
+| [nodemon](https://www.npmjs.com/package/nodemon)                                   | Auto restarting the application when file changes                        |
 
 
 __Author:__
